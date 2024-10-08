@@ -1,0 +1,8 @@
+npm init -y
+npm install cors
+npm install express
+npm install dotenv
+npm install -g http-server
+npm install express cors
+npm install express ejs
+
